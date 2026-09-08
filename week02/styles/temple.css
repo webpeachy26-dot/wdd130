@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+}
+
+header,
+footer {
+    background-color: rgb(73, 73, 73);
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+main {
+    width: 400px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    margin: 10px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    box-shadow: 0 0 30px gray;
+}
+
+section {
+    border: 1px solid black/10%;
+    margin: 20px 0;
+    padding: 10px;
+    background-color: lightgray;
+    font-size: .9rem;
+}
+
+h2 {
+    border-bottom: 1px solid black;
+}
+
+section p {
+    margin: 10px;
+
+}
+
+footer {
+    font-size: 1rem;
+}
